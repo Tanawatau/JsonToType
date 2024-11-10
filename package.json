@@ -1,6 +1,6 @@
 {
-  "name": "jsontotype",
-  "displayName": "JsonToType",
+  "name": "jsontotypeconverter",
+  "displayName": "JsonToTSTypes",
   "description": "Convert Json To TypeScript Type",
   "version": "1.0.0",
   "engines": {
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "https://github.com/Tanawatau/JsonToType.git"
   },
+  "publisher": "TanawatAu",
   "license": "MIT",
   "icon": "./asset/logo.png",
   "categories": [
